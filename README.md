@@ -1,5 +1,5 @@
 # CISC3130 Lab1: Hello-World
-### This repo holds a simple HTML page with a hint of CSS and JavaScript in it.
+### This repo holds a simple HTML page with a hint of CSS and JavaScript to it.
 ---
 There are no packages needs to be installed to run the contents of this repo, since, as I already mentioned, this is a simple HTML page.  
 But since the lab requires us to put a simple description here, I will tell you how to download stuff from GitHub and how to open a static HTML page:
