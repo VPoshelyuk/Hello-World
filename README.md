@@ -1,4 +1,4 @@
-# CISC3130 Lab1: Hello-World
+# CISC3130 Lab1/CISC3140 Lab0/CISC3160 Lab0: Hello-World
 ## This repo holds a simple HTML page with a hint of CSS and JavaScript to it.
 ---
 ### Dependencies
